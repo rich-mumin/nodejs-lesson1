@@ -4,7 +4,7 @@ const path = require('path');
 const { add, multiply,bolu  } = require('./math');
 
 log(add(1,1));
-log(multiply(2, 3));
+log(multiply(4, 5));
 log(bolu(8, 4));
 // log(os.type());
 // log(os.version());
